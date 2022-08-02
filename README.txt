@@ -8,10 +8,14 @@ A format will be considered supported if it is displayed properly on the given
 page.
 
 Supported on GitHub
-  - Pure UTF-8 Text
   - Markdown
+  - PDF
+  - reStructuredText
+  - Pure UTF-8
 
 Supported on GitLab
-  - Pure UTF-8 Text
   - Markdown
+  - PDF
+  - reStructuredText
+  - Pure UTF-8
 

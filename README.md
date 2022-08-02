@@ -18,11 +18,27 @@ page.
     <th>GitHub
     <th>GitLab
   <tr>
-    <td>Pure UTF-8 Text
+    <td>Epub
+    <td>No
+    <td>No
+  <tr>
+    <td>Markdown
     <td>Yes
     <td>Yes
   <tr>
-    <td>Markdown
+    <td>ODF Text Document
+    <td>No
+    <td>No
+  <tr>
+    <td>PDF
+    <td>Yes
+    <td>Yes
+  <tr>
+    <td>reStructuredText
+    <td>Yes
+    <td>Yes
+  <tr>
+    <td>Pure UTF-8
     <td>Yes
     <td>Yes
 </table>
